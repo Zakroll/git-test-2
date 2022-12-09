@@ -14,3 +14,5 @@
 <!-- Работа с ветками -->
 1. git branch [name branch] добавление  ветки
 2. git checkout [branch] переключение на ветку
+3. git merge - слияние веток
+4. git branch -d [name branch] - удаление ветки после мерджа
